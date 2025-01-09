@@ -6,9 +6,9 @@ This project sets up an NBA data lake on AWS, enabling data storage, processing,
 
 ## Prerequisites
 
-Sportsdata.io API Keys
-AWS Account
-IAM Role/Permissions: Ensure the user or role running the script has the following permissions:
+- Sportsdata.io API Keys
+- AWS Account
+- IAM Role/Permissions: Ensure the user or role running the script has the following permissions
 
 ## Key components include:
 
