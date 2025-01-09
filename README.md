@@ -54,7 +54,7 @@ nano nba_data_lake.py
 If you dont have a dotenv package installed, you will have to run this command in your terminal to install the package:
 
 ```bash
-pip install python-dotenv`
+pip install python-dotenv
 ```
 
 ## Step 4: Run the script
