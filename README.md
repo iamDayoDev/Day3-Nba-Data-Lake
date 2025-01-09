@@ -1,5 +1,8 @@
 # DevOps Challenge - Day 3: NBA Data-Lake
 
+![Data-Lake](https://github.com/user-attachments/assets/4979a1bf-fb64-4414-9fc0-396927cbc0fe)
+
+
 ## Project Overview:
 
 This project sets up an NBA data lake on AWS, enabling data storage, processing, and querying. 
