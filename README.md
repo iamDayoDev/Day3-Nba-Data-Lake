@@ -36,7 +36,7 @@ SPORTS_DATA_API_KEY=your_sportsdata_api_key
 NBA_ENDPOINT=https://api.sportsdata.io/v3/nba/scores/json/Players
 ```
 
-## Step 3: Create the setup_nba_data_lake.py file
+## Step 3: Create the nba_data_lake.py file
 1. In the CLI (Command Line Interface), type
 ```bash
 nano nba_data_lake.py
@@ -48,7 +48,14 @@ nano nba_data_lake.py
 -Go back to the Cloudshell window and paste it in the `nano nba_data_lake.py` window.
 
 
-3. Press ^X to exit, press Y to save the file, press enter to confirm the file name 
+3. Press ^X to exit, press Y to save the file, press enter to confirm the file name
+
+## Optional Step: Install python-dotenv
+If you dont have a dotenv package installed, you will have to run this command in your terminal to install the package:
+
+```bash
+pip install python-dotenv`
+```
 
 ## Step 4: Run the script
 1. In the CLI type
