@@ -12,9 +12,9 @@ IAM Role/Permissions: Ensure the user or role running the script has the followi
 
 ## Key components include:
 
-Amazon S3: Stores raw and processed NBA data in JSON format.
-AWS Glue: Creates a database and external table for schema definition and data cataloging.
-Amazon Athena: Configures query capabilities for the data stored in S3.
+1. Amazon S3: Stores raw and processed NBA data in JSON format.
+2. AWS Glue: Creates a database and external table for schema definition and data cataloging.
+3. Amazon Athena: Configures query capabilities for the data stored in S3.
 
 ## STEPS TO FOLLOW:
 
