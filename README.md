@@ -1,6 +1,6 @@
 # DevOps Challenge - Day 3: NBA Data-Lake
 
-![Data-Lake](https://github.com/user-attachments/assets/4979a1bf-fb64-4414-9fc0-396927cbc0fe)
+![Data Lake D3](https://github.com/user-attachments/assets/9bab0c46-2499-401f-9c71-f0a3a77a91f6)
 
 
 ## Project Overview:
